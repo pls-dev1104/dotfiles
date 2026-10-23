@@ -1,0 +1,22 @@
+{
+  "window.titleBarStyle": "native",
+  "workbench.editor.labelFormat": "short",
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.tabCloseButton": "off",
+  "workbench.startupEditor": "none",
+  "workbench.statusBar.visible": true,
+  "editor.minimap.enabled": false,
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.overviewRulerBorder": false,
+  "breadcrumbs.enabled": false,
+  "editor.lineNumbers": "on",
+  "workbench.editor.tabActionCloseVisibility": false,
+  "chat.disableAIFeatures": true,
+  "dart.flutterSdkPath": "/home/pedro/flutter",
+  "explorer.confirmDragAndDrop": false,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "git.enableSmartCommit": true,
+  "git.openRepositoryInParentFolders": "never"
+}
